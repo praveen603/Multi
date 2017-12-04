@@ -1,4 +1,4 @@
 stage('push') {
-    // some block
+    echo 'Veridic'
 }
 
