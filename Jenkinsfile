@@ -1,1 +1,4 @@
+stage('push') {
+    // some block
+}
 
