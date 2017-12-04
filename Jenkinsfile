@@ -1,4 +1,4 @@
 stage('push') {
-    echo 'Veridic solutions'
+    echo 'Veridic solutions      '
 }
 
